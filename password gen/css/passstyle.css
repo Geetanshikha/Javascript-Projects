@@ -1,0 +1,55 @@
+body{
+    
+  background: -webkit-radial-gradient(circle, #1a82f7, #2f2727);
+  height:600px;
+
+
+}
+
+.container{
+   width:600px;
+   margin:0 auto;
+   margin-top:100px;
+   font-size:2em;
+   
+    
+}
+
+.out{
+    margin-bottom: 50px;
+    width:100%;
+    text-align: center ;
+    height: 90px;
+    color: #fff;
+    background-color: mediumpurple;
+    font-size: 40px;
+}
+
+.myBtn{
+   padding: 20px 20px;
+   font-size: 40px;
+   margin-bottom: 20px;
+       
+}
+
+.pass{
+    width: 400px;
+    float: left;
+    font-size: 30px;
+    color:#fff;
+    margin-left: 0;
+    padding: 20px;
+    background-color: #f63;
+}
+
+.in{
+    
+    margin: 0;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    color: #f63;
+    width: 100px;
+    height: 80px;
+}

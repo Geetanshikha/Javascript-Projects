@@ -1,0 +1,17 @@
+ html, body{
+    height: 100%;
+}
+
+#clock{
+    /*forid we wuse # */
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, ;
+    font-size: 70px;
+    
+    position: relative;
+    top: 40%;
+    
+        /*half of the actual size */
+    text-align: center;
+    
+}
